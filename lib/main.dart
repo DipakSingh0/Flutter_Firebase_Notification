@@ -2,9 +2,10 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:notif/api/firebase_api.dart';
 import 'package:notif/firebase_options.dart';
-import 'package:notif/home_page.dart';
-import 'package:notif/notification_page.dart';
+import 'package:notif/pages/home_page.dart';
+import 'package:notif/pages/notification_page.dart';
 
+// global naviagtion 
 final navigatorKey = GlobalKey<NavigatorState>();
 
 void main() async {

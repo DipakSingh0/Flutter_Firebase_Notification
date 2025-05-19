@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "609040146801",
+    "project_id": "mitchinotif",
+    "storage_bucket": "mitchinotif.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609040146801:android:9d49a96ec89af3f65896d0",
+        "android_client_info": {
+          "package_name": "com.example.notif"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCReQkNvlqoQeIBQFoKl4Ye9fnTP2qa9_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
